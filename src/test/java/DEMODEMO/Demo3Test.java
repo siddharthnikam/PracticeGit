@@ -16,6 +16,8 @@ public class Demo3Test {
 	public  void printIOS()
 	{
 		System.out.println("IOS mobile");
+		System.out.println("IOS mobile");
+		System.out.println("IOS mobile");
 	}
 
 }
