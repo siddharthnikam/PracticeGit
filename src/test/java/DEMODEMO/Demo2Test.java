@@ -9,6 +9,13 @@ public class Demo2Test {
 	{
 		
 		System.out.print("Appium mobile");
+		System.out.print("Appium mobile");
+		System.out.print("Appium mobile");
+		System.out.print("Appium mobile");
+		System.out.print("Appium mobile");
+		System.out.print("Appium mobile");
+		System.out.print("Appium mobile");
+		System.out.print("Appium mobile1");
 
 	}
 	
